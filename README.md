@@ -5,7 +5,7 @@ Halo, assalamu'alaykum..
 
 Hari ini saya akan menjelaskan tentang pelajaran yang saya terima hari ini, yaitu tentang Web Scraping. Di materi ini, kita diberi quiz, untuk mengambil data dari database website Digimon.
 
-![alt text](http://digidb.io/images/dot/dot151.png "Logo Title Text 1")
+![alt text](https://github.com/ridhoaryo/19_Notes_Module_2_JCDS_Purwadhika/blob/master/digiweb.jpg 'Screenshot')
 
 Untuk file coding bisa dilihat di:
 - **06_scraping_digimondb.py**
@@ -15,7 +15,7 @@ Untuk file excel, json dan csv:
 - **Digimon.json**
 - **Digimon.csv**
 
-## Let's brakedown the code
+## Let's brakedown the code ![alt text](http://digidb.io/images/dot/dot151.png "Gabumon")
 ## 1. Import the Library
 ```
 import requests

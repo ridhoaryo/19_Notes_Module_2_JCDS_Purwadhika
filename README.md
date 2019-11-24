@@ -15,7 +15,7 @@ Untuk file excel, json dan csv:
 - **Digimon.json**
 - **Digimon.csv**
 
-## Let's brakedown the code ![alt text](http://digidb.io/images/dot/dot151.png "Gabumon")
+## Let's breakdown the code ![alt text](http://digidb.io/images/dot/dot151.png "Gabumon")
 ## 1. Import the Library
 ```
 import requests
